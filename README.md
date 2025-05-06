@@ -4,3 +4,6 @@ Grup Üyeleri ve Çalışma Oranları:
 - Yunus Emre Yıldırım - 220601014 - %36
 - Fatma Cüre - 220601023 - %36
 - Yusuf Özpamuk - 220601012 - %28
+
+Veriseti boyutundan dolayı eklenememistir.
+Veriseti: https://www.kaggle.com/datasets/bittlingmayer/amazonreviews/data
